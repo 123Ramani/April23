@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="5"> 
+	<parameter name="browser"
+	 value="chrome"></parameter>
+	<parameter name="url"
+	   value="https://www.saucedemo.com/"></parameter>
+	<listeners>
+		<listener 
+		class-name="Utilities.ExtentReportManager"></listener>
+	</listeners>
+	<test  name="LoginTest">	 
+   <classes>
+     <class name="TestCaseExecution.Tc_Login_1"/>
+     <class name="TestCaseExecution.Tc_SelectProduct_2"/>
+     <class name="TestCaseExecution.Tc_Checkout_3"/>
+   </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
+

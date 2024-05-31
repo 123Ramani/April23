@@ -1,0 +1,286 @@
+12:46:29.825 [main] INFO  App1testCase.TC_001_Registartion - ****Launched the Application*****
+12:46:29.964 [main] INFO  App1testCase.TC_001_Registartion - ****Maximized the browser*****
+12:46:29.976 [main] INFO  App1testCase.TC_001_Registartion - ****Waiting for elements to load*****
+12:46:30.675 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on Registration*****
+12:46:33.813 [main] INFO  App1testCase.TC_001_Registartion - ****Firstname entered*****
+12:46:33.919 [main] INFO  App1testCase.TC_001_Registartion - ****Lastname Entered*****
+12:46:34.036 [main] INFO  App1testCase.TC_001_Registartion - ****Address Entered*****
+12:46:34.168 [main] INFO  App1testCase.TC_001_Registartion - ****City Entered*****
+12:46:34.253 [main] INFO  App1testCase.TC_001_Registartion - ****State Entered*****
+12:46:34.348 [main] INFO  App1testCase.TC_001_Registartion - ****Zipcode Entered*****
+12:46:34.485 [main] INFO  App1testCase.TC_001_Registartion - ****Phonenumber entered*****
+12:46:34.596 [main] INFO  App1testCase.TC_001_Registartion - ***ssn entered*****
+12:46:34.731 [main] INFO  App1testCase.TC_001_Registartion - ****username entered*****
+12:46:34.881 [main] INFO  App1testCase.TC_001_Registartion - ****password entered*****
+12:46:35.017 [main] INFO  App1testCase.TC_001_Registartion - ****confirm password entered*****
+12:46:35.555 [main] INFO  App1testCase.TC_001_Registartion - ****Account Created*****
+12:46:46.822 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on New Account*****
+12:46:52.466 [main] INFO  App1testCase.TC_001_Registartion - ****Closed browser*****
+12:54:06.082 [main] INFO  App1testCase.TC_001_Registartion - ****Launched the Application*****
+12:54:06.187 [main] INFO  App1testCase.TC_001_Registartion - ****Maximized the browser*****
+12:54:06.200 [main] INFO  App1testCase.TC_001_Registartion - ****Waiting for elements to load*****
+12:54:07.683 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on Registration*****
+12:54:10.814 [main] INFO  App1testCase.TC_001_Registartion - ****Firstname entered*****
+12:54:10.916 [main] INFO  App1testCase.TC_001_Registartion - ****Lastname Entered*****
+12:54:11.034 [main] INFO  App1testCase.TC_001_Registartion - ****Address Entered*****
+12:54:11.155 [main] INFO  App1testCase.TC_001_Registartion - ****City Entered*****
+12:54:11.236 [main] INFO  App1testCase.TC_001_Registartion - ****State Entered*****
+12:54:11.336 [main] INFO  App1testCase.TC_001_Registartion - ****Zipcode Entered*****
+12:54:11.456 [main] INFO  App1testCase.TC_001_Registartion - ****Phonenumber entered*****
+12:54:11.555 [main] INFO  App1testCase.TC_001_Registartion - ***ssn entered*****
+12:54:11.659 [main] INFO  App1testCase.TC_001_Registartion - ****username entered*****
+12:54:11.798 [main] INFO  App1testCase.TC_001_Registartion - ****password entered*****
+12:54:11.920 [main] INFO  App1testCase.TC_001_Registartion - ****confirm password entered*****
+12:54:12.445 [main] INFO  App1testCase.TC_001_Registartion - ****Account Created*****
+12:54:33.227 [main] INFO  App1testCase.TC_001_Registartion - ****Closed browser*****
+13:19:28.954 [main] INFO  App1testCase.TC_001_Registartion - ****Launched the Application*****
+13:19:29.052 [main] INFO  App1testCase.TC_001_Registartion - ****Maximized the browser*****
+13:19:29.076 [main] INFO  App1testCase.TC_001_Registartion - ****Waiting for elements to load*****
+13:19:30.555 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on Registration*****
+13:19:33.737 [main] INFO  App1testCase.TC_001_Registartion - ****Firstname entered*****
+13:19:33.915 [main] INFO  App1testCase.TC_001_Registartion - ****Lastname Entered*****
+13:19:34.043 [main] INFO  App1testCase.TC_001_Registartion - ****Address Entered*****
+13:19:34.171 [main] INFO  App1testCase.TC_001_Registartion - ****City Entered*****
+13:19:34.279 [main] INFO  App1testCase.TC_001_Registartion - ****State Entered*****
+13:19:34.410 [main] INFO  App1testCase.TC_001_Registartion - ****Zipcode Entered*****
+13:19:34.568 [main] INFO  App1testCase.TC_001_Registartion - ****Phonenumber entered*****
+13:19:34.874 [main] INFO  App1testCase.TC_001_Registartion - ***ssn entered*****
+13:19:36.053 [main] INFO  App1testCase.TC_001_Registartion - ****username entered*****
+13:19:36.211 [main] INFO  App1testCase.TC_001_Registartion - ****password entered*****
+13:19:36.373 [main] INFO  App1testCase.TC_001_Registartion - ****confirm password entered*****
+13:19:37.603 [main] INFO  App1testCase.TC_001_Registartion - ****Account Created*****
+13:19:49.022 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on New Account*****
+13:19:56.573 [main] INFO  App1testCase.TC_001_Registartion - ****Closed browser*****
+13:22:32.621 [main] INFO  App1testCase.TC_001_Registartion - ****Launched the Application*****
+13:22:32.718 [main] INFO  App1testCase.TC_001_Registartion - ****Maximized the browser*****
+13:22:32.724 [main] INFO  App1testCase.TC_001_Registartion - ****Waiting for elements to load*****
+13:22:33.810 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on Registration*****
+13:22:37.014 [main] INFO  App1testCase.TC_001_Registartion - ****Firstname entered*****
+13:22:37.187 [main] INFO  App1testCase.TC_001_Registartion - ****Lastname Entered*****
+13:22:37.320 [main] INFO  App1testCase.TC_001_Registartion - ****Address Entered*****
+13:22:37.450 [main] INFO  App1testCase.TC_001_Registartion - ****City Entered*****
+13:22:37.555 [main] INFO  App1testCase.TC_001_Registartion - ****State Entered*****
+13:22:37.680 [main] INFO  App1testCase.TC_001_Registartion - ****Zipcode Entered*****
+13:22:37.818 [main] INFO  App1testCase.TC_001_Registartion - ****Phonenumber entered*****
+13:22:37.952 [main] INFO  App1testCase.TC_001_Registartion - ***ssn entered*****
+13:22:38.097 [main] INFO  App1testCase.TC_001_Registartion - ****username entered*****
+13:22:38.232 [main] INFO  App1testCase.TC_001_Registartion - ****password entered*****
+13:22:38.378 [main] INFO  App1testCase.TC_001_Registartion - ****confirm password entered*****
+13:22:38.899 [main] INFO  App1testCase.TC_001_Registartion - ****Account Created*****
+13:22:49.448 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on New Account*****
+13:22:56.225 [main] INFO  App1testCase.TC_001_Registartion - ****Closed browser*****
+16:37:30.973 [main] INFO  App1testCase.TC_001_Registartion - ****Launched the Application*****
+16:37:34.580 [main] INFO  App1testCase.TC_001_Registartion - ****Maximized the browser*****
+16:37:34.644 [main] INFO  App1testCase.TC_001_Registartion - ****Waiting for elements to load*****
+16:37:36.027 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on Registration*****
+16:37:39.231 [main] INFO  App1testCase.TC_001_Registartion - ****Firstname entered*****
+16:37:39.378 [main] INFO  App1testCase.TC_001_Registartion - ****Lastname Entered*****
+16:37:39.637 [main] INFO  App1testCase.TC_001_Registartion - ****Address Entered*****
+16:37:39.804 [main] INFO  App1testCase.TC_001_Registartion - ****City Entered*****
+16:37:39.926 [main] INFO  App1testCase.TC_001_Registartion - ****State Entered*****
+16:37:40.091 [main] INFO  App1testCase.TC_001_Registartion - ****Zipcode Entered*****
+16:37:40.315 [main] INFO  App1testCase.TC_001_Registartion - ****Phonenumber entered*****
+16:37:40.476 [main] INFO  App1testCase.TC_001_Registartion - ***ssn entered*****
+16:37:40.648 [main] INFO  App1testCase.TC_001_Registartion - ****username entered*****
+16:37:40.808 [main] INFO  App1testCase.TC_001_Registartion - ****password entered*****
+16:37:41.109 [main] INFO  App1testCase.TC_001_Registartion - ****confirm password entered*****
+16:37:41.681 [main] INFO  App1testCase.TC_001_Registartion - ****Account Created*****
+16:37:52.251 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on New Account*****
+16:37:59.524 [main] INFO  App1testCase.TC_001_Registartion - ****Closed browser*****
+16:41:08.058 [main] INFO  App1testCase.TC_001_Registartion - ****Launched the Application*****
+16:41:08.293 [main] INFO  App1testCase.TC_001_Registartion - ****Maximized the browser*****
+16:41:08.315 [main] INFO  App1testCase.TC_001_Registartion - ****Waiting for elements to load*****
+16:41:10.819 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on Registration*****
+16:41:14.098 [main] INFO  App1testCase.TC_001_Registartion - ****Firstname entered*****
+16:41:14.293 [main] INFO  App1testCase.TC_001_Registartion - ****Lastname Entered*****
+16:41:14.507 [main] INFO  App1testCase.TC_001_Registartion - ****Address Entered*****
+16:41:14.740 [main] INFO  App1testCase.TC_001_Registartion - ****City Entered*****
+16:41:14.873 [main] INFO  App1testCase.TC_001_Registartion - ****State Entered*****
+16:41:15.044 [main] INFO  App1testCase.TC_001_Registartion - ****Zipcode Entered*****
+16:41:15.240 [main] INFO  App1testCase.TC_001_Registartion - ****Phonenumber entered*****
+16:41:15.434 [main] INFO  App1testCase.TC_001_Registartion - ***ssn entered*****
+16:41:15.605 [main] INFO  App1testCase.TC_001_Registartion - ****username entered*****
+16:41:15.775 [main] INFO  App1testCase.TC_001_Registartion - ****password entered*****
+16:41:15.945 [main] INFO  App1testCase.TC_001_Registartion - ****confirm password entered*****
+16:41:16.770 [main] INFO  App1testCase.TC_001_Registartion - ****Account Created*****
+16:41:42.761 [main] INFO  App1testCase.TC_001_Registartion - ****Closed browser*****
+12:19:04.097 [main] INFO  App1testCase.TC_001_Registartion - ****Launched the Application*****
+12:19:19.081 [main] INFO  App1testCase.TC_001_Registartion - ****Launched the Application*****
+12:19:19.167 [main] INFO  App1testCase.TC_001_Registartion - ****Maximized the browser*****
+12:19:19.177 [main] INFO  App1testCase.TC_001_Registartion - ****Waiting for elements to load*****
+12:19:20.119 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on Registration*****
+12:19:23.355 [main] INFO  App1testCase.TC_001_Registartion - ****Firstname entered*****
+12:19:23.461 [main] INFO  App1testCase.TC_001_Registartion - ****Lastname Entered*****
+12:19:23.625 [main] INFO  App1testCase.TC_001_Registartion - ****Address Entered*****
+12:19:23.778 [main] INFO  App1testCase.TC_001_Registartion - ****City Entered*****
+12:19:23.902 [main] INFO  App1testCase.TC_001_Registartion - ****State Entered*****
+12:19:24.044 [main] INFO  App1testCase.TC_001_Registartion - ****Zipcode Entered*****
+12:19:24.187 [main] INFO  App1testCase.TC_001_Registartion - ****Phonenumber entered*****
+12:19:24.324 [main] INFO  App1testCase.TC_001_Registartion - ***ssn entered*****
+12:19:24.469 [main] INFO  App1testCase.TC_001_Registartion - ****username entered*****
+12:19:24.628 [main] INFO  App1testCase.TC_001_Registartion - ****password entered*****
+12:19:24.793 [main] INFO  App1testCase.TC_001_Registartion - ****confirm password entered*****
+12:19:26.068 [main] INFO  App1testCase.TC_001_Registartion - ****Account Created*****
+12:19:36.648 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on New Account*****
+12:19:43.178 [main] INFO  App1testCase.TC_001_Registartion - ****Closed browser*****
+12:20:53.846 [main] INFO  App1testCase.TC_001_Registartion - ****Launched the Application*****
+12:20:53.911 [main] INFO  App1testCase.TC_001_Registartion - ****Maximized the browser*****
+12:20:53.930 [main] INFO  App1testCase.TC_001_Registartion - ****Waiting for elements to load*****
+12:20:54.829 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on Registration*****
+12:20:58.046 [main] INFO  App1testCase.TC_001_Registartion - ****Firstname entered*****
+12:20:58.193 [main] INFO  App1testCase.TC_001_Registartion - ****Lastname Entered*****
+12:20:58.340 [main] INFO  App1testCase.TC_001_Registartion - ****Address Entered*****
+12:20:58.482 [main] INFO  App1testCase.TC_001_Registartion - ****City Entered*****
+12:20:58.606 [main] INFO  App1testCase.TC_001_Registartion - ****State Entered*****
+12:20:58.741 [main] INFO  App1testCase.TC_001_Registartion - ****Zipcode Entered*****
+12:20:58.865 [main] INFO  App1testCase.TC_001_Registartion - ****Phonenumber entered*****
+12:20:58.975 [main] INFO  App1testCase.TC_001_Registartion - ***ssn entered*****
+12:20:59.120 [main] INFO  App1testCase.TC_001_Registartion - ****username entered*****
+12:20:59.269 [main] INFO  App1testCase.TC_001_Registartion - ****password entered*****
+12:20:59.413 [main] INFO  App1testCase.TC_001_Registartion - ****confirm password entered*****
+12:20:59.968 [main] INFO  App1testCase.TC_001_Registartion - ****Account Created*****
+12:21:20.893 [main] INFO  App1testCase.TC_001_Registartion - ****Closed browser*****
+12:22:09.572 [main] INFO  App1testCase.TC_001_Registartion - ****Launched the Application*****
+12:22:09.642 [main] INFO  App1testCase.TC_001_Registartion - ****Maximized the browser*****
+12:22:09.668 [main] INFO  App1testCase.TC_001_Registartion - ****Waiting for elements to load*****
+12:22:11.278 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on Registration*****
+12:22:14.455 [main] INFO  App1testCase.TC_001_Registartion - ****Firstname entered*****
+12:22:14.597 [main] INFO  App1testCase.TC_001_Registartion - ****Lastname Entered*****
+12:22:14.758 [main] INFO  App1testCase.TC_001_Registartion - ****Address Entered*****
+12:22:14.925 [main] INFO  App1testCase.TC_001_Registartion - ****City Entered*****
+12:22:15.063 [main] INFO  App1testCase.TC_001_Registartion - ****State Entered*****
+12:22:15.205 [main] INFO  App1testCase.TC_001_Registartion - ****Zipcode Entered*****
+12:22:15.353 [main] INFO  App1testCase.TC_001_Registartion - ****Phonenumber entered*****
+12:22:15.470 [main] INFO  App1testCase.TC_001_Registartion - ***ssn entered*****
+12:22:15.606 [main] INFO  App1testCase.TC_001_Registartion - ****username entered*****
+12:22:15.770 [main] INFO  App1testCase.TC_001_Registartion - ****password entered*****
+12:22:15.920 [main] INFO  App1testCase.TC_001_Registartion - ****confirm password entered*****
+12:22:16.339 [main] INFO  App1testCase.TC_001_Registartion - ****Account Created*****
+12:22:27.770 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on New Account*****
+12:22:34.299 [main] INFO  App1testCase.TC_001_Registartion - ****Closed browser*****
+16:34:16.649 [main] INFO  App1testCase.TC_001_Registartion - ****Launched the Application*****
+16:34:16.720 [main] INFO  App1testCase.TC_001_Registartion - ****Maximized the browser*****
+16:34:16.738 [main] INFO  App1testCase.TC_001_Registartion - ****Waiting for elements to load*****
+16:34:18.042 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on Registration*****
+16:34:21.235 [main] INFO  App1testCase.TC_001_Registartion - ****Firstname entered*****
+16:34:21.386 [main] INFO  App1testCase.TC_001_Registartion - ****Lastname Entered*****
+16:34:21.533 [main] INFO  App1testCase.TC_001_Registartion - ****Address Entered*****
+16:34:21.667 [main] INFO  App1testCase.TC_001_Registartion - ****City Entered*****
+16:34:21.791 [main] INFO  App1testCase.TC_001_Registartion - ****State Entered*****
+16:34:21.930 [main] INFO  App1testCase.TC_001_Registartion - ****Zipcode Entered*****
+16:34:22.054 [main] INFO  App1testCase.TC_001_Registartion - ****Phonenumber entered*****
+16:34:22.202 [main] INFO  App1testCase.TC_001_Registartion - ***ssn entered*****
+16:34:22.349 [main] INFO  App1testCase.TC_001_Registartion - ****username entered*****
+16:34:22.513 [main] INFO  App1testCase.TC_001_Registartion - ****password entered*****
+16:34:22.635 [main] INFO  App1testCase.TC_001_Registartion - ****confirm password entered*****
+16:34:23.171 [main] INFO  App1testCase.TC_001_Registartion - ****Account Created*****
+16:34:34.014 [main] INFO  App1testCase.TC_001_Registartion - ****Closed browser*****
+16:34:49.356 [main] INFO  App1testCase.TC_001_Registartion - ****Launched the Application*****
+16:34:49.436 [main] INFO  App1testCase.TC_001_Registartion - ****Maximized the browser*****
+16:34:49.443 [main] INFO  App1testCase.TC_001_Registartion - ****Waiting for elements to load*****
+16:34:51.089 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on Registration*****
+16:34:54.268 [main] INFO  App1testCase.TC_001_Registartion - ****Firstname entered*****
+16:34:54.416 [main] INFO  App1testCase.TC_001_Registartion - ****Lastname Entered*****
+16:34:54.565 [main] INFO  App1testCase.TC_001_Registartion - ****Address Entered*****
+16:34:54.744 [main] INFO  App1testCase.TC_001_Registartion - ****City Entered*****
+16:34:54.850 [main] INFO  App1testCase.TC_001_Registartion - ****State Entered*****
+16:34:54.969 [main] INFO  App1testCase.TC_001_Registartion - ****Zipcode Entered*****
+16:34:55.135 [main] INFO  App1testCase.TC_001_Registartion - ****Phonenumber entered*****
+16:34:55.251 [main] INFO  App1testCase.TC_001_Registartion - ***ssn entered*****
+16:34:55.380 [main] INFO  App1testCase.TC_001_Registartion - ****username entered*****
+16:34:55.506 [main] INFO  App1testCase.TC_001_Registartion - ****password entered*****
+16:34:55.639 [main] INFO  App1testCase.TC_001_Registartion - ****confirm password entered*****
+16:34:56.134 [main] INFO  App1testCase.TC_001_Registartion - ****Account Created*****
+16:35:16.925 [main] INFO  App1testCase.TC_001_Registartion - ****Closed browser*****
+16:35:54.838 [main] INFO  App1testCase.TC_001_Registartion - ****Launched the Application*****
+16:35:57.343 [main] INFO  App1testCase.TC_001_Registartion - ****Maximized the browser*****
+16:35:57.355 [main] INFO  App1testCase.TC_001_Registartion - ****Waiting for elements to load*****
+16:35:58.979 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on Registration*****
+16:36:02.176 [main] INFO  App1testCase.TC_001_Registartion - ****Firstname entered*****
+16:36:02.330 [main] INFO  App1testCase.TC_001_Registartion - ****Lastname Entered*****
+16:36:02.451 [main] INFO  App1testCase.TC_001_Registartion - ****Address Entered*****
+16:36:02.590 [main] INFO  App1testCase.TC_001_Registartion - ****City Entered*****
+16:36:02.688 [main] INFO  App1testCase.TC_001_Registartion - ****State Entered*****
+16:36:02.810 [main] INFO  App1testCase.TC_001_Registartion - ****Zipcode Entered*****
+16:36:02.974 [main] INFO  App1testCase.TC_001_Registartion - ****Phonenumber entered*****
+16:36:03.114 [main] INFO  App1testCase.TC_001_Registartion - ***ssn entered*****
+16:36:03.250 [main] INFO  App1testCase.TC_001_Registartion - ****username entered*****
+16:36:03.420 [main] INFO  App1testCase.TC_001_Registartion - ****password entered*****
+16:36:03.549 [main] INFO  App1testCase.TC_001_Registartion - ****confirm password entered*****
+16:36:04.110 [main] INFO  App1testCase.TC_001_Registartion - ****Account Created*****
+16:36:14.625 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on New Account*****
+16:36:20.883 [main] INFO  App1testCase.TC_001_Registartion - ****Closed browser*****
+23:48:36.752 [main] INFO  App1testCase.TC_001_Registartion - ****Launched the Application*****
+23:48:40.663 [main] INFO  App1testCase.TC_001_Registartion - ****Maximized the browser*****
+23:48:40.682 [main] INFO  App1testCase.TC_001_Registartion - ****Waiting for elements to load*****
+23:48:42.740 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on Registration*****
+23:48:46.003 [main] INFO  App1testCase.TC_001_Registartion - ****Firstname entered*****
+23:48:46.139 [main] INFO  App1testCase.TC_001_Registartion - ****Lastname Entered*****
+23:48:46.322 [main] INFO  App1testCase.TC_001_Registartion - ****Address Entered*****
+23:48:46.504 [main] INFO  App1testCase.TC_001_Registartion - ****City Entered*****
+23:48:46.698 [main] INFO  App1testCase.TC_001_Registartion - ****State Entered*****
+23:48:47.093 [main] INFO  App1testCase.TC_001_Registartion - ****Zipcode Entered*****
+23:48:47.234 [main] INFO  App1testCase.TC_001_Registartion - ****Phonenumber entered*****
+23:48:47.359 [main] INFO  App1testCase.TC_001_Registartion - ***ssn entered*****
+23:48:47.482 [main] INFO  App1testCase.TC_001_Registartion - ****username entered*****
+23:48:47.641 [main] INFO  App1testCase.TC_001_Registartion - ****password entered*****
+23:48:47.793 [main] INFO  App1testCase.TC_001_Registartion - ****confirm password entered*****
+23:48:48.385 [main] INFO  App1testCase.TC_001_Registartion - ****Account Created*****
+23:48:59.404 [main] INFO  App1testCase.TC_001_Registartion - ****Closed browser*****
+14:32:46.608 [main] INFO  App1testCase.TC_001_Registartion - ****Launched the Application*****
+14:32:46.671 [main] INFO  App1testCase.TC_001_Registartion - ****Maximized the browser*****
+14:32:46.692 [main] INFO  App1testCase.TC_001_Registartion - ****Waiting for elements to load*****
+14:32:47.406 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on Registration*****
+14:32:50.648 [main] INFO  App1testCase.TC_001_Registartion - ****Firstname entered*****
+14:32:50.708 [main] INFO  App1testCase.TC_001_Registartion - ****Lastname Entered*****
+14:32:50.782 [main] INFO  App1testCase.TC_001_Registartion - ****Address Entered*****
+14:32:50.844 [main] INFO  App1testCase.TC_001_Registartion - ****City Entered*****
+14:32:50.911 [main] INFO  App1testCase.TC_001_Registartion - ****State Entered*****
+14:32:50.975 [main] INFO  App1testCase.TC_001_Registartion - ****Zipcode Entered*****
+14:32:51.045 [main] INFO  App1testCase.TC_001_Registartion - ****Phonenumber entered*****
+14:32:51.110 [main] INFO  App1testCase.TC_001_Registartion - ***ssn entered*****
+14:32:51.170 [main] INFO  App1testCase.TC_001_Registartion - ****username entered*****
+14:32:51.240 [main] INFO  App1testCase.TC_001_Registartion - ****password entered*****
+14:32:51.307 [main] INFO  App1testCase.TC_001_Registartion - ****confirm password entered*****
+14:32:52.568 [main] INFO  App1testCase.TC_001_Registartion - ****Account Created*****
+14:33:03.856 [main] INFO  App1testCase.TC_001_Registartion - ****Clicked on New Account*****
+14:33:09.067 [main] INFO  App1testCase.TC_001_Registartion - ****Closed browser*****
+00:08:51.449 [main] INFO  CCKtestCase.TC_01_Registartion - ****Launched the Application*****
+00:08:51.517 [main] INFO  CCKtestCase.TC_01_Registartion - ****Maximized the browser*****
+00:08:51.547 [main] INFO  CCKtestCase.TC_01_Registartion - ****Waiting for elements to load*****
+00:08:51.851 [main] INFO  CCKtestCase.TC_01_Registartion - ****Clicked on Registration*****
+00:09:00.487 [main] INFO  CCKtestCase.TC_01_Registartion - ****Closed browser*****
+00:13:03.890 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Launched the Application*****
+00:13:03.967 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Maximized the browser*****
+00:13:04.009 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Waiting for elements to load*****
+00:13:04.695 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Closed browser*****
+00:15:54.537 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Launched the Application*****
+00:15:54.608 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Maximized the browser*****
+00:15:54.637 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Waiting for elements to load*****
+00:15:55.223 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Closed browser*****
+00:18:31.528 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Launched the Application*****
+00:18:31.587 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Maximized the browser*****
+00:18:31.613 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Waiting for elements to load*****
+00:18:32.193 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Closed browser*****
+00:21:14.341 [main] INFO  CCKtestCase.TC_02_Registartion - ****Launched the Application*****
+00:21:14.394 [main] INFO  CCKtestCase.TC_02_Registartion - ****Maximized the browser*****
+00:21:14.423 [main] INFO  CCKtestCase.TC_02_Registartion - ****Waiting for elements to load*****
+00:21:14.680 [main] INFO  CCKtestCase.TC_02_Registartion - ****Clicked on Registration*****
+00:21:18.081 [main] INFO  CCKtestCase.TC_02_Registartion - ****Closed browser*****
+10:07:02.876 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Launched the Application*****
+10:07:02.961 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Maximized the browser*****
+10:07:03.005 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Waiting for elements to load*****
+10:07:03.762 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Closed browser*****
+10:08:15.936 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Launched the Application*****
+10:08:16.002 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Maximized the browser*****
+10:08:16.045 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Waiting for elements to load*****
+10:08:16.762 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Closed browser*****
+12:34:00.575 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Launched the Application*****
+12:34:00.664 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Maximized the browser*****
+12:34:00.688 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Waiting for elements to load*****
+12:34:01.173 [main] INFO  CCKtestCase.TC_01_SelectAsStudent - ****Closed browser*****
+12:36:22.134 [main] INFO  CCKtestCase.TC_02_Registartion - ****Launched the Application*****
+12:36:22.236 [main] INFO  CCKtestCase.TC_02_Registartion - ****Maximized the browser*****
+12:36:22.285 [main] INFO  CCKtestCase.TC_02_Registartion - ****Waiting for elements to load*****
+12:36:22.632 [main] INFO  CCKtestCase.TC_02_Registartion - ****Clicked on Registration*****
+12:36:26.055 [main] INFO  CCKtestCase.TC_02_Registartion - ****Closed browser*****
